@@ -1,0 +1,28 @@
+# Django
+django==1.9
+
+# Python base libraries commonly used
+scipy
+pandas
+
+# Common Django reusable apps
+Sphinx
+
+# Postgres
+psycopg2
+
+# Debug
+django-debug-toolbar
+
+# Tasks
+amqp
+anyjson
+kombu
+billiard
+celery
+django-celery
+redis
+pytz
+
+# LESS and SASS
+# https://github.com/andreyfedoseev/django-static-precompiler
